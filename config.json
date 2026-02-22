@@ -1,0 +1,27 @@
+{
+ "github_url": "https://github.com/hanyaa380",
+  "dark_mode": "auto",
+  "name": "hy380qwq",
+  "bio": "vi/mi phone,I love you.qwq",
+  "introduction_file": "Introduction.md",
+  "theme": {
+    "primary_color": "#6a11cb",
+    "secondary_color": "#2575fc",
+    "dark_primary_color": "#a855f7",
+    "dark_secondary_color": "#60a5fa"
+  },
+  "background": {
+    "image": "background.jpeg",
+    "blur": 3,
+    "overlay_opacity": 0.6,
+    "overlay_color": "#f3f4f6",
+    "dark_overlay_color": "#121212"
+  },
+  "contact": {
+    "qq": "https://qm.qq.com/q/zxMFUDCT5K",
+    "wechat": "",
+    "bilibili": "https://space.bilibili.com/2124105323",
+    "douyin": "",
+    "xiaohongshu": ""
+  }
+}
